@@ -48,3 +48,7 @@ This will print timing comparisons for linear search vs dictionary lookup on sam
 
 ### Bulk Request
 ![Bulk Request](images/bulk%20request.png)
+
+## Project Report
+
+A detailed report in PDF format is available here: [Project Report](report.pdf).
