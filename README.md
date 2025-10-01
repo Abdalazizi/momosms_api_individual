@@ -12,7 +12,7 @@
 1. Clone or download the project to your machine.
 2. Put your `modified_sms_v2.xml` in `dsa/` and optionally overwrite `modified_sms_sample.json` by running:
    ```bash
-   python dsa/parse_xml.py dsa/modified_sms_v2.xml > dsa/modified_sms_v2.json
+   python dsa/parse_xml.py dsa/modified_sms_sample.xml > dsa/modified_sms_sample.json
    ```
 3. Start the API server:
    ```bash

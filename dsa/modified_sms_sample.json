@@ -13878,6 +13878,24 @@
     "raw_body": "*165*S*700 RWF transferred to Robert Brown (250788999999) from 36521838 at 2024-12-22 12:43:32 . Fee was: 20 RWF. New balance: 36822 RWF. Kugura ama inite cg interineti kuri MoMo, Kanda *182*2*1# .*EN#"
   },
   {
+    "Id": "TxID1543",
+    "transaction_type": "payment",
+    "amount": 1000,
+    "sender": "Me",
+    "receiver": "Linda Green",
+    "timestamp": "2024-12-22 14:33:02",
+    "raw_body": "TxId: 94602885416. Your payment of 1,000 RWF to Linda Green 92343 has been completed at 2024-12-22 14:33:02. Your new balance: 35,822 RWF. Fee was 0 RWF."
+  },
+  {
+    "Id": "TxID1544",
+    "transaction_type": "payment",
+    "amount": 11600,
+    "sender": "Me",
+    "receiver": "Alex Doe",
+    "timestamp": "2024-12-22 14:46:17",
+    "raw_body": "TxId: 40325712376. Your payment of 11,600 RWF to Alex Doe 80143 has been completed at 2024-12-22 14:46:17. Your new balance: 24,222 RWF. Fee was 0 RWF."
+  },
+  {
     "Id": "TxID1545",
     "transaction_type": "payment",
     "amount": 8250,
@@ -13885,6 +13903,15 @@
     "receiver": "Alex Doe",
     "timestamp": "2024-12-22 19:45:41",
     "raw_body": "TxId: 88953152367. Your payment of 8,250 RWF to Alex Doe 30069 has been completed at 2024-12-22 19:45:41. Your new balance: 15,972 RWF. Fee was 0 RWF."
+  },
+  {
+    "Id": "TxID1546",
+    "transaction_type": "payment",
+    "amount": 2040,
+    "sender": "Me",
+    "receiver": "Jane Smith",
+    "timestamp": "2024-12-22 19:49:17",
+    "raw_body": "TxId: 70853207718. Your payment of 2,040 RWF to Jane Smith 68739 has been completed at 2024-12-22 19:49:17. Your new balance: 13,932 RWF. Fee was 0 RWF."
   },
   {
     "Id": "TxID1547",
@@ -14047,6 +14074,15 @@
     "receiver": "My Account",
     "timestamp": "2024-12-23 21:48:36",
     "raw_body": "You have received 27000 RWF from Alex Doe (*********090) on your mobile money account at 2024-12-23 21:48:36. Message from sender: . Your new balance:42532 RWF. Financial Transaction Id: 97521447595."
+  },
+  {
+    "Id": "TxID1565",
+    "transaction_type": "other",
+    "amount": 30000,
+    "sender": "Me",
+    "receiver": "your mobile money account",
+    "timestamp": "2024-12-23 21:49:24",
+    "raw_body": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-12-23 21:49:24. Your NEW BALANCE :72532 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
   },
   {
     "Id": "TxID1566",
@@ -15183,12 +15219,39 @@
     "raw_body": "TxId: 37832903831. Your payment of 24,900 RWF to Robert Brown 23478 has been completed at 2025-01-16 00:13:22. Your new balance: 4,900 RWF. Fee was 0 RWF."
   },
   {
-    "type": "PAYMENT",
-    "amount": 5000,
-    "sender": "James",
-    "receiver": "Twariq",
-    "timestamp": "2025-09-01T10:00:00",
-    "note": "test",
+    "transaction_type": "deposit",
+    "amount": 2000,
+    "sender": "Jane Smith (*********013) on your mobile money account",
+    "receiver": "My Account",
+    "timestamp": "2024-05-10 16:30:51",
+    "raw_body": "You have received 2000 RWF from Jane Smith (*********013) on your mobile money account at 2024-05-10 16:30:51. Message from sender: . Your new balance:2000 RWF. Financial Transaction Id: 76662021700.",
     "Id": "TxID1692"
+  },
+  {
+    "transaction_type": "deposit",
+    "amount": 2000,
+    "sender": "Jane Smith (*********013) on your mobile money account",
+    "receiver": "My Account",
+    "timestamp": "2024-05-10 16:30:51",
+    "raw_body": "You have received 2000 RWF from Jane Smith (*********013) on your mobile money account at 2024-05-10 16:30:51. Message from sender: . Your new balance:2000 RWF. Financial Transaction Id: 76662021700.",
+    "Id": "TxID1693"
+  },
+  {
+    "transaction_type": "deposit",
+    "amount": 2000,
+    "sender": "Jane Smith (*********013) on your mobile money account",
+    "receiver": "My Account",
+    "timestamp": "2024-05-10 16:30:51",
+    "raw_body": "You have received 2000 RWF from Jane Smith (*********013) on your mobile money account at 2024-05-10 16:30:51. Message from sender: . Your new balance:2000 RWF. Financial Transaction Id: 76662021700.",
+    "Id": "TxID1694"
+  },
+  {
+    "transaction_type": "deposit",
+    "amount": 2000,
+    "sender": "Jane Smith (*********013) on your mobile money account",
+    "receiver": "My Account",
+    "timestamp": "2024-05-10 16:30:51",
+    "raw_body": "You have received 2000 RWF from Jane Smith (*********013) on your mobile money account at 2024-05-10 16:30:51. Message from sender: . Your new balance:2000 RWF. Financial Transaction Id: 76662021700.",
+    "Id": "TxID1695"
   }
 ]
